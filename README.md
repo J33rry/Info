@@ -2,6 +2,8 @@
 
 A high-performance, interactive, and dual-mode tree visualizer built with React Flow. 
 
+🔗 **[Live Demo](https://info-y1i2.vercel.app/)** | 🐙 **[Git Repository](https://github.com/J33rry/Info)**
+
 ## Features
 
 - **Dual-Mode Visualization:**
